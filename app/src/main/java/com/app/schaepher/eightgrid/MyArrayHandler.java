@@ -44,7 +44,7 @@ public class MyArrayHandler
         messNumbers();
     }
 
-    // 打乱数字实际是让0随便走
+    // 打乱数字实际是让0随便走，确保有解
     public void setZeroPosition()
     {
         for (int index = 0; index < stateArray.size(); index++)

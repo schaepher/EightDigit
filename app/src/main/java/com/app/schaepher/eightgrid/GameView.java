@@ -135,6 +135,7 @@ class GameView extends View
 
     public void startAutoRun()
     {
+        autoRun.setArrayList(myArrayHandler.getStateArray());
         autoRun.setContext(getContext());
         autoRun.startAutoRun();
     }
