@@ -5,7 +5,7 @@ However , this is the first edition. I just publish it for a prectice of using *
 
 It is very cool!!
 
-说人话：
+说人话：  
 1. 按音量键上，可以打乱布局  
 2. 按菜单键，可以自动寻找结果  
 3. 按音量键下，可以按照已找到的结果走一步  
