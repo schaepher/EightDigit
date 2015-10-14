@@ -6,6 +6,9 @@ However , this is the first edition. I just publish it for a prectice of using *
 It is very cool!!
 
 说人话：  
+《人工智能》这门课讲了启发式搜索，就根据书上的内容做了一个app游戏。  
+
+操作说明：  
 1. 按音量键上，可以打乱布局  
 2. 按菜单键，可以自动寻找结果  
 3. 按音量键下，可以按照已找到的结果走一步  
